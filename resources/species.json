@@ -1,12 +1,16 @@
 {
     "species": {
-        "species1": [],
-        "species2": []
+        "cat": ["dom_inh"],
+        "aerocat": [],
+        "invcat": ["rec_inh"],
+        "voidcat": ["no_breed"]
     },
-    "ran_weights": [1, 1],
+    "ran_weights": [5, 3, 2, 1],
     "in_weights": {
-        "species1": [1, 1],
-        "species2": [1, 1]
+        "cat": [5, 3, 2, 1],
+        "aerocat": [1, 1, 1, 1],
+        "invcat": [1, 1, 1, 1],
+        "voidcat": [6, 9, 6, 9]
     },
     "comment": [
         "look at the official documentation for a list of all species tags.",
