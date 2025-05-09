@@ -22,12 +22,12 @@
     "CHOCOLATE": "brown"
   },
   "possible_tints": {
-    "basic": ["none", "offwhite", "offwhite"],
-    "black": ["gray", "darkcream", "cream"],
-    "gray": ["gray"],
-    "ginger": ["darkcream", "cream", "pink"],
-    "brown": ["darkcream", "cream"],
-    "white": []
+    "basic": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"],
+    "black": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"],
+    "gray": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"],
+    "ginger": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"],
+    "brown": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"],
+    "white": ["none", "offwhite", "cream", "darkcrea", "pink", "gray"]
   },
   "tint_colours":
   {
