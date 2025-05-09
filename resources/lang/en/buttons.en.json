@@ -1,8 +1,8 @@
 {
     "en": {
         "continue": "continue",
-        "switch_clan": "switch clan",
-        "new_clan": "new clan",
+        "switch_clan": "switch Clan",
+        "new_clan": "new Clan",
         "settings_info": "settings + info",
         "quit": "quit",
         "open_data_directory": "Open Data Directory",
@@ -25,7 +25,7 @@
         "add_cat": "add cat",
         "remove_cat": "remove cat",
         "cancel": "cancel",
-        "save_clan": "save clan",
+        "save_clan": "save Clan",
         "saving": "saving...",
         "clan_saved": "saved!"
     }

@@ -1,7 +1,7 @@
 {
     "en": {
-        "help_tooltip": "This screen allows you to check on the other cats who live nearby, both Outsiders and other Clan cats.  You can control how the leader of your Clan will treat other leaders at Gatherings, but keep in mind that you can only determine one interaction each moon! Likewise, you can consider whether to drive out or invite in Outsider cats.  If you drive out a cat, they will no longer appear in the Cats Outside the Clans list.  If you invite a cat in, they might join your Clan!",
-        "clans": "Clans",
+        "help_tooltip": "This screen allows you to check on the other cats who live nearby, both Outsiders and other Clan cats.  You can control how the leader of your Clan will treat other leaders at Gatherings, but keep in mind that you can only determine one interaction each moon! Likewise, you can consider whether to drive out or invite in Outsider cats.  If you drive out a cat, they will no longer appear in the Cats Outside the Colonies list.  If you invite a cat in, they might join your Clan!",
+        "clans": "Colonies",
         "outsiders": "Outsiders",
         "clan_notice_text": {
             "one": "m_c is considering how to handle the next Gathering.",
@@ -28,8 +28,8 @@
         "action_outsider_drive_off": "m_c has decided to drive r_c off.",
         "action_outsider_invite_in": "m_c has decided to invite r_c in.",
         "action_outsider_search_for": "m_c has decided to search for r_c.",
-        "temper_text": "The other Clans think c_n is %{temper}.",
-        "outsider_rep": "Outsiders view your Clan as %{reputation}.",
+        "temper_text": "The other Clan think c_n is %{temper}.",
+        "outsider_rep": "Outsiders view your Colonu as %{reputation}.",
         "outsider_skill": "Skills: %{skill}",
         "cunning": "cunning",
         "proud": "proud",

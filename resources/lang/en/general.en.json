@@ -1,18 +1,18 @@
 {
     "en": {
         "moons_age": {
-            "one": "1 moon",
-            "many": "%{count} moons"
+            "one": "1 month",
+            "many": "%{count} months"
         },
         "moons_age_in_death": {
-            "one": "1 moon (in death)",
-            "many": "%{count} moons (in death)"
+            "one": "1 month (in death)",
+            "many": "%{count} months (in death)"
         },
         "moons_age_in_life": {
-            "one": "1 moon (in life)",
-            "many": "%{count} moons (in life)"
+            "one": "1 month (in life)",
+            "many": "%{count} months (in life)"
         },
-        "moon_date": "moon %{moon}",
+        "moon_date": "month %{moon}",
         "leader": {
             "one": "leader",
             "many": "leaders"
@@ -22,36 +22,36 @@
             "many": "deputies"
         },
         "warrior": {
-            "one": "warrior",
-            "many": "warriors"
+            "one": "soldier",
+            "many": "soldiers"
         },
         "medicine cat": {
-            "one": "medicine cat",
-            "many": "medicine cats"
+            "one": "healer",
+            "many": "healers"
         },
         "mediator": {
-            "one": "mediator",
-            "many": "mediators"
+            "one": "diplomat",
+            "many": "diplomats"
         },
         "apprentice": {
-            "one": "apprentice",
-            "many": "apprentices"
+            "one": "trainee",
+            "many": "trainees"
         },
         "medicine cat apprentice": {
-            "one": "medicine cat apprentice",
-            "many": "medicine cat apprentices"
+            "one": "healer's apprentice",
+            "many": "healer's apprentices"
         },
         "mediator apprentice": {
-            "one": "mediator apprentice",
-            "many": "mediator apprentices"
+            "one": "diplomat's apprentice",
+            "many": "diplomat's apprentices"
         },
         "queen": {
-            "one": "queen",
-            "many": "queens"
+            "one": "denparent",
+            "many": "denparents"
         },
         "queen/pregnant": {
-            "one": "queen/pregnant cat",
-            "many": "queens/pregnant cats"
+            "one": "denparent/pregnant cat",
+            "many": "denparents/pregnant cats"
         },
         "newborn": {
             "one": "newborn",
@@ -68,8 +68,8 @@
         "senior adult": "senior adult",
         "senior": "senior",
         "kit": {
-            "one": "kit",
-            "many": "kits"
+            "one": "kitten",
+            "many": "kittens"
         },
         "elder": {
             "one": "elder",
@@ -84,23 +84,23 @@
             "many": "rogues"
         },
         "kittypet": {
-            "one": "kittypet",
-            "many": "kittypets"
+            "one": "domestic cat",
+            "many": "domestic cats"
         },
         "former Clancat": {
-            "one": "former Clancat",
-            "many": "former Clancats"
+            "one": "former Clan member",
+            "many": "former Clan members"
         },
         "exiled": {
             "one": "exiled",
             "many": "exiled"
         },
-        "lost": "lost",
+        "lost": "missing",
         "mate": {
-            "one": "mate",
-            "many": "mates"
+            "one": "spouse",
+            "many": "spouses"
         },
-        "she-cat": "she-cat",
+        "she-cat": "mot",
         "tom": "tom",
         "cat": "cat",
         "female": "female",
@@ -114,11 +114,11 @@
         "cant_work": "This cat isn't able to work",
         "cant_work_condition": "Can't work with this condition",
         "exp_label": "exp: %{exp}",
-        "newleaf": "newleaf",
-        "greenleaf": "greenleaf",
-        "leaf-fall": "leaf-fall",
-        "leaf-bare": "leaf-bare",
-        "relation_BLOOD": "",
+        "newleaf": "spring",
+        "greenleaf": "summer",
+        "leaf-fall": "fall",
+        "leaf-bare": "winter",
+        "relation_BLOOD": "related by blood",
         "relation_ADOPTIVE": "adoptive",
         "relation_HALF_BLOOD": "half sibling",
         "relation_NOT_BLOOD": "not blood related",
@@ -143,15 +143,15 @@
         "empty": "empty",
         "none": "none",
         "name_search": "name search",
-        "has_a_mate": "has a mate",
+        "has_a_mate": "has a spouse",
         "cats_mate": "%{name}'s mate",
-        "mate_none": "mate: none",
+        "mate_none": "spouse: none",
         "mate_living": "(living)",
         "mate_dead": "(dead)",
         "mate_away": "(away)",
         "mate_label": {
-            "one": "mate: %{mates}",
-            "many": "mates: %{mates}"
+            "one": "spouse: %{mates}",
+            "many": "spouses: %{mates}"
         },
         "mate_extra": {
             "one": "1 other",
@@ -163,7 +163,7 @@
         },
         "mentor_label": "mentor: %{mentor}",
         "apprentice_label": {
-            "zero": "",
+            "zero": "no apprentice",
             "one": "apprentice: %{apprentices}",
             "many": "apprentices: %{apprentices}"
         },

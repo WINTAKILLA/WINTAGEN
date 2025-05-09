@@ -5,14 +5,14 @@
         "no_cats": "None",
         "parents": "parents",
         "siblings": "siblings",
-        "siblings_mates": "siblings' mates",
+        "siblings_mates": "siblings' spouses",
         "siblings_kits": "siblings' kits",
         "parents_siblings": "parents' siblings",
         "cousins": "cousins",
         "grandparents": "grandparents",
         "mates": "mates",
         "kits": "kits",
-        "kits_mates": "kits' mates",
+        "kits_mates": "kits' spouses",
         "grandkits": "grandkits"
     }
 }
